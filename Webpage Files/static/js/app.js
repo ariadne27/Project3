@@ -1,7 +1,7 @@
 (function() {
     var margin = {top: 25, right: 0, bottom: 0, left: 0},
-        width = 800,
-        height = 450 - margin.top - margin.bottom,
+        width = 1200,
+        height = 675 - margin.top - margin.bottom,
         formatNumber = d3.format(",d"),
         transitioning;
     
@@ -15,7 +15,7 @@
     
     var color = d3.scale.threshold()
         .domain([-3,-0.25,0.25,3])
-        .range(["#BB0000","#600A0A","#404040","#064D15","#1CA41C"]);
+        .range(["#990623","#b70b0b","#740699","#3537ae","#021893"]);
     
     var treemap = d3.layout.treemap()
         .children(function(d, depth) { return depth ? null : d._children; })
@@ -46,7 +46,7 @@
         .attr("dy", ".75em");
     
         d3.queue()
-            .defer(d3.json, "static/js/data.json")
+            .defer(d3.json, "static/js/data2.json")
             .await(function(error, root) {
                 if (error) throw error;
                 initialize(root);
