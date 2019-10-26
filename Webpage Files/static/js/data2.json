@@ -1,0 +1,3090 @@
+{
+"name": "S&P 500", 
+"children": [
+    {
+        "name": "COMMUNICATION SERVICES", 
+        "children":[
+            {
+            "rate": 0.869258864,
+            "name": "ATVI",
+            "value": 57,
+            "Company": "Activision Blizzard"
+            },
+            {
+            "rate": -0.515682897,
+            "name": "GOOGL",
+            "value": 11,
+            "Company": "Alphabet Inc Class A"
+            },
+            {
+            "rate": 1.259746587,
+            "name": "GOOG",
+            "value": 78,
+            "Company": "Alphabet Inc Class C"
+            },
+            {
+            "rate": 3.085112471,
+            "name": "T",
+            "value": 58,
+            "Company": "AT&T Inc."
+            },
+            {
+            "rate": 3.726374359,
+            "name": "CBS",
+            "value": 8,
+            "Company": "CBS Corp."
+            },
+            {
+            "rate": 0.517678053,
+            "name": "CTL",
+            "value": 34,
+            "Company": "CenturyLink Inc"
+            },
+            {
+            "rate": 2.900710191,
+            "name": "CHTR",
+            "value": 96,
+            "Company": "Charter Communications"
+            },
+            {
+            "rate": -3.982769344,
+            "name": "CMCSA",
+            "value": 89,
+            "Company": "Comcast Corp."
+            },
+            {
+            "rate": -3.190028324,
+            "name": "DISCA",
+            "value": 77,
+            "Company": "Discovery Inc. Class A"
+            },
+            {
+            "rate": -2.405593102,
+            "name": "DISCK",
+            "value": 29,
+            "Company": "Discovery Inc. Class C"
+            },
+            {
+            "rate": 2.774529503,
+            "name": "DISH",
+            "value": 80,
+            "Company": "Dish Network"
+            },
+            {
+            "rate": 1.563002386,
+            "name": "EA",
+            "value": 41,
+            "Company": "Electronic Arts"
+            },
+            {
+            "rate": 0.239174295,
+            "name": "FB",
+            "value": 20,
+            "Company": "Facebook, Inc."
+            },
+            {
+            "rate": 2.034743036,
+            "name": "FOXA",
+            "value": 26,
+            "Company": "Fox Corporation Class A"
+            },
+            {
+            "rate": 3.012368851,
+            "name": "FOX",
+            "value": 87,
+            "Company": "Fox Corporation Class B"
+            },
+            {
+            "rate": -3.790856208,
+            "name": "IPG",
+            "value": 7,
+            "Company": "Interpublic Group"
+            },
+            {
+            "rate": -2.241054153,
+            "name": "NFLX",
+            "value": 49,
+            "Company": "Netflix Inc."
+            },
+            {
+            "rate": 1.367806406,
+            "name": "NWSA",
+            "value": 69,
+            "Company": "News Corp. Class A"
+            },
+            {
+            "rate": -3.356570407,
+            "name": "NWS",
+            "value": 9,
+            "Company": "News Corp. Class B"
+            },
+            {
+            "rate": 2.277511015,
+            "name": "OMC",
+            "value": 84,
+            "Company": "Omnicom Group"
+            },
+            {
+            "rate": 4.044629317,
+            "name": "TMUS",
+            "value": 25,
+            "Company": "T-Mobile US"
+            },
+            {
+            "rate": -0.753622201,
+            "name": "TTWO",
+            "value": 48,
+            "Company": "Take-Two Interactive"
+            },
+            {
+            "rate": -4.067074763,
+            "name": "TWTR",
+            "value": 90,
+            "Company": "Twitter, Inc."
+            },
+            {
+            "rate": -2.09987186,
+            "name": "TRIP",
+            "value": 2,
+            "Company": "TripAdvisor"
+            },
+            {
+            "rate": -4.026042304,
+            "name": "VZ",
+            "value": 84,
+            "Company": "Verizon Communications"
+            },
+            {
+            "rate": 3.779019574,
+            "name": "VIAB",
+            "value": 42,
+            "Company": "Viacom Inc."
+            },
+            {
+            "rate": -3.985601705,
+            "name": "DIS",
+            "value": 87,
+            "Company": "The Walt Disney Company"
+            }
+        ]
+    },
+    {
+        "name": "CONSUMER DISCRETIONARY", 
+        "children":[
+            {
+            "rate": -3.049436646,
+            "name": "AAP",
+            "value": 1,
+            "Company": "Advance Auto Parts"
+            },
+            {
+            "rate": 2.042251648,
+            "name": "AMZN",
+            "value": 30,
+            "Company": "Amazon.com Inc."
+            },
+            {
+            "rate": 1.545053146,
+            "name": "APTV",
+            "value": 8,
+            "Company": "Aptiv Plc"
+            },
+            {
+            "rate": -0.614806291,
+            "name": "AZO",
+            "value": 52,
+            "Company": "AutoZone Inc"
+            },
+            {
+            "rate": 3.364331903,
+            "name": "BBY",
+            "value": 10,
+            "Company": "Best Buy Co. Inc."
+            },
+            {
+            "rate": 1.422605742,
+            "name": "HRB",
+            "value": 18,
+            "Company": "Block H&R"
+            },
+            {
+            "rate": 2.069686682,
+            "name": "BKNG",
+            "value": 50,
+            "Company": "Booking Holdings Inc"
+            },
+            {
+            "rate": 2.979291504,
+            "name": "BWA",
+            "value": 30,
+            "Company": "BorgWarner"
+            },
+            {
+            "rate": -1.979677403,
+            "name": "CPRI",
+            "value": 83,
+            "Company": "Capri Holdings"
+            },
+            {
+            "rate": -0.211154146,
+            "name": "KMX",
+            "value": 88,
+            "Company": "Carmax Inc"
+            },
+            {
+            "rate": -0.315662935,
+            "name": "CCL",
+            "value": 8,
+            "Company": "Carnival Corp."
+            },
+            {
+            "rate": -4.037396796,
+            "name": "CMG",
+            "value": 77,
+            "Company": "Chipotle Mexican Grill"
+            },
+            {
+            "rate": 1.200408068,
+            "name": "DHI",
+            "value": 53,
+            "Company": "D. R. Horton"
+            },
+            {
+            "rate": -2.885346525,
+            "name": "DRI",
+            "value": 71,
+            "Company": "Darden Restaurants"
+            },
+            {
+            "rate": 2.372639394,
+            "name": "DG",
+            "value": 6,
+            "Company": "Dollar General"
+            },
+            {
+            "rate": 0.861397773,
+            "name": "DLTR",
+            "value": 51,
+            "Company": "Dollar Tree"
+            },
+            {
+            "rate": 2.384783353,
+            "name": "EBAY",
+            "value": 59,
+            "Company": "eBay Inc."
+            },
+            {
+            "rate": 2.918988737,
+            "name": "EXPE",
+            "value": 50,
+            "Company": "Expedia Group"
+            },
+            {
+            "rate": 3.294569027,
+            "name": "F",
+            "value": 19,
+            "Company": "Ford Motor"
+            },
+            {
+            "rate": -2.701252003,
+            "name": "GPS",
+            "value": 41,
+            "Company": "Gap Inc."
+            },
+            {
+            "rate": 3.755424857,
+            "name": "GRMN",
+            "value": 32,
+            "Company": "Garmin Ltd."
+            },
+            {
+            "rate": -3.306133637,
+            "name": "GM",
+            "value": 2,
+            "Company": "General Motors"
+            },
+            {
+            "rate": 1.161984331,
+            "name": "GPC",
+            "value": 31,
+            "Company": "Genuine Parts"
+            },
+            {
+            "rate": -3.589766213,
+            "name": "HBI",
+            "value": 79,
+            "Company": "Hanesbrands Inc"
+            },
+            {
+            "rate": 2.157623955,
+            "name": "HOG",
+            "value": 56,
+            "Company": "Harley-Davidson"
+            },
+            {
+            "rate": 2.543334816,
+            "name": "HAS",
+            "value": 46,
+            "Company": "Hasbro Inc."
+            },
+            {
+            "rate": -4.014089024,
+            "name": "HLT",
+            "value": 58,
+            "Company": "Hilton Worldwide Holdings Inc"
+            },
+            {
+            "rate": 0.88407679,
+            "name": "HD",
+            "value": 83,
+            "Company": "Home Depot"
+            },
+            {
+            "rate": 3.897838255,
+            "name": "KSS",
+            "value": 64,
+            "Company": "Kohl's Corp."
+            },
+            {
+            "rate": 3.283249781,
+            "name": "LB",
+            "value": 91,
+            "Company": "L Brands Inc."
+            },
+            {
+            "rate": 1.068707689,
+            "name": "LVS",
+            "value": 56,
+            "Company": "Las Vegas Sands Corp"
+            },
+            {
+            "rate": -1.044408214,
+            "name": "LEG",
+            "value": 95,
+            "Company": "Leggett & Platt"
+            },
+            {
+            "rate": -0.521129172,
+            "name": "LEN",
+            "value": 72,
+            "Company": "Lennar Corp."
+            },
+            {
+            "rate": 1.864912527,
+            "name": "LKQ",
+            "value": 89,
+            "Company": "LKQ Corporation"
+            },
+            {
+            "rate": 2.444680529,
+            "name": "LOW",
+            "value": 47,
+            "Company": "Lowe's Cos."
+            },
+            {
+            "rate": -0.992787722,
+            "name": "M",
+            "value": 61,
+            "Company": "Macy's Inc."
+            },
+            {
+            "rate": 3.361370864,
+            "name": "MAR",
+            "value": 80,
+            "Company": "Marriott Int'l."
+            },
+            {
+            "rate": -1.756865204,
+            "name": "MCD",
+            "value": 83,
+            "Company": "McDonald's Corp."
+            },
+            {
+            "rate": -1.56945348,
+            "name": "MGM",
+            "value": 90,
+            "Company": "MGM Resorts International"
+            },
+            {
+            "rate": 3.979930155,
+            "name": "MHK",
+            "value": 92,
+            "Company": "Mohawk Industries"
+            },
+            {
+            "rate": -1.175130324,
+            "name": "NWL",
+            "value": 11,
+            "Company": "Newell Brands"
+            },
+            {
+            "rate": -2.012202945,
+            "name": "NKE",
+            "value": 6,
+            "Company": "Nike"
+            },
+            {
+            "rate": -0.809101063,
+            "name": "JWN",
+            "value": 79,
+            "Company": "Nordstrom"
+            },
+            {
+            "rate": -1.515303621,
+            "name": "NCLH",
+            "value": 92,
+            "Company": "Norwegian Cruise Line Holdings"
+            },
+            {
+            "rate": -1.969362244,
+            "name": "NVR",
+            "value": 46,
+            "Company": "NVR Inc"
+            },
+            {
+            "rate": 2.706191527,
+            "name": "ORLY",
+            "value": 49,
+            "Company": "O'Reilly Automotive"
+            },
+            {
+            "rate": 2.345078724,
+            "name": "PHM",
+            "value": 21,
+            "Company": "Pulte Homes Inc."
+            },
+            {
+            "rate": -0.206895347,
+            "name": "PVH",
+            "value": 85,
+            "Company": "PVH Corp."
+            },
+            {
+            "rate": -2.889815833,
+            "name": "RL",
+            "value": 84,
+            "Company": "Ralph Lauren Corporation"
+            },
+            {
+            "rate": 2.709412148,
+            "name": "ROST",
+            "value": 59,
+            "Company": "Ross Stores"
+            },
+            {
+            "rate": -2.324661988,
+            "name": "RCL",
+            "value": 61,
+            "Company": "Royal Caribbean Cruises Ltd"
+            },
+            {
+            "rate": 2.369561428,
+            "name": "SBUX",
+            "value": 46,
+            "Company": "Starbucks Corp."
+            },
+            {
+            "rate": -3.538510543,
+            "name": "TPR",
+            "value": 2,
+            "Company": "Tapestry, Inc."
+            },
+            {
+            "rate": -2.368709814,
+            "name": "TGT",
+            "value": 24,
+            "Company": "Target Corp."
+            },
+            {
+            "rate": 1.418765604,
+            "name": "TIF",
+            "value": 32,
+            "Company": "Tiffany & Co."
+            },
+            {
+            "rate": -1.77329914,
+            "name": "TJX",
+            "value": 21,
+            "Company": "TJX Companies Inc."
+            },
+            {
+            "rate": -2.351338684,
+            "name": "TSCO",
+            "value": 83,
+            "Company": "Tractor Supply Company"
+            },
+            {
+            "rate": -3.586925353,
+            "name": "ULTA",
+            "value": 67,
+            "Company": "Ulta Beauty"
+            },
+            {
+            "rate": 2.405544442,
+            "name": "UAA",
+            "value": 40,
+            "Company": "Under Armour Class A"
+            },
+            {
+            "rate": -2.916053704,
+            "name": "UA",
+            "value": 42,
+            "Company": "Under Armour Class C"
+            },
+            {
+            "rate": 0.748739778,
+            "name": "VFC",
+            "value": 65,
+            "Company": "V.F. Corp."
+            },
+            {
+            "rate": 1.408397496,
+            "name": "WHR",
+            "value": 93,
+            "Company": "Whirlpool Corp."
+            },
+            {
+            "rate": 1.198445954,
+            "name": "WYNN",
+            "value": 73,
+            "Company": "Wynn Resorts Ltd"
+            },
+            {
+            "rate": -1.578149539,
+            "name": "YUM",
+            "value": 54,
+            "Company": "Yum! Brands Inc"
+            }
+        ]
+    },
+    {
+        "name": "CONSUMER STAPLES", 
+        "children":[
+            {
+              "rate": -0.649516756,
+              "name": "MO",
+              "value": 6,
+              "Company": "Altria Group Inc"
+            },
+            {
+              "rate": 1.440827806,
+              "name": "ADM",
+              "value": 74,
+              "Company": "Archer-Daniels-Midland Co"
+            },
+            {
+              "rate": -1.641968477,
+              "name": "BF.B",
+              "value": 97,
+              "Company": "Brown-Forman Corp."
+            },
+            {
+              "rate": -1.802973108,
+              "name": "CPB",
+              "value": 5,
+              "Company": "Campbell Soup"
+            },
+            {
+              "rate": -1.397051751,
+              "name": "CHD",
+              "value": 11,
+              "Company": "Church & Dwight"
+            },
+            {
+              "rate": 1.553125275,
+              "name": "CLX",
+              "value": 97,
+              "Company": "The Clorox Company"
+            },
+            {
+              "rate": -1.405816211,
+              "name": "KO",
+              "value": 59,
+              "Company": "Coca-Cola Company"
+            },
+            {
+              "rate": 3.79096452,
+              "name": "CL",
+              "value": 1,
+              "Company": "Colgate-Palmolive"
+            },
+            {
+              "rate": 3.510754171,
+              "name": "CAG",
+              "value": 14,
+              "Company": "Conagra Brands"
+            },
+            {
+              "rate": -2.16797928,
+              "name": "STZ",
+              "value": 39,
+              "Company": "Constellation Brands"
+            },
+            {
+              "rate": 2.876265634,
+              "name": "COST",
+              "value": 95,
+              "Company": "Costco Wholesale Corp."
+            },
+            {
+              "rate": -1.607480162,
+              "name": "COTY",
+              "value": 22,
+              "Company": "Coty, Inc"
+            },
+            {
+              "rate": -2.612007545,
+              "name": "EL",
+              "value": 47,
+              "Company": "Estee Lauder Cos."
+            },
+            {
+              "rate": 1.537869859,
+              "name": "GIS",
+              "value": 18,
+              "Company": "General Mills"
+            },
+            {
+              "rate": -0.589295801,
+              "name": "HSY",
+              "value": 36,
+              "Company": "The Hershey Company"
+            },
+            {
+              "rate": 3.454192486,
+              "name": "HRL",
+              "value": 26,
+              "Company": "Hormel Foods Corp."
+            },
+            {
+              "rate": -3.191063799,
+              "name": "SJM",
+              "value": 9,
+              "Company": "JM Smucker"
+            },
+            {
+              "rate": -2.173707129,
+              "name": "K",
+              "value": 19,
+              "Company": "Kellogg Co."
+            },
+            {
+              "rate": 3.505201248,
+              "name": "KMB",
+              "value": 92,
+              "Company": "Kimberly-Clark"
+            },
+            {
+              "rate": 3.898151121,
+              "name": "KHC",
+              "value": 24,
+              "Company": "Kraft Heinz Co"
+            },
+            {
+              "rate": -1.489134954,
+              "name": "KR",
+              "value": 44,
+              "Company": "Kroger Co."
+            },
+            {
+              "rate": -1.289225521,
+              "name": "LW",
+              "value": 56,
+              "Company": "Lamb Weston Holdings Inc"
+            },
+            {
+              "rate": -2.716241746,
+              "name": "MKC",
+              "value": 56,
+              "Company": "McCormick & Co."
+            },
+            {
+              "rate": 0.717121236,
+              "name": "TAP",
+              "value": 17,
+              "Company": "Molson Coors Brewing Company"
+            },
+            {
+              "rate": 2.814910498,
+              "name": "MDLZ",
+              "value": 72,
+              "Company": "Mondelez International"
+            },
+            {
+              "rate": -1.186260813,
+              "name": "MNST",
+              "value": 37,
+              "Company": "Monster Beverage"
+            },
+            {
+              "rate": 2.985378968,
+              "name": "PEP",
+              "value": 70,
+              "Company": "PepsiCo Inc."
+            },
+            {
+              "rate": 1.632861609,
+              "name": "PM",
+              "value": 70,
+              "Company": "Philip Morris International"
+            },
+            {
+              "rate": 1.373310922,
+              "name": "PG",
+              "value": 97,
+              "Company": "Procter & Gamble"
+            },
+            {
+              "rate": -3.842064571,
+              "name": "SYY",
+              "value": 15,
+              "Company": "Sysco Corp."
+            },
+            {
+              "rate": -0.740309568,
+              "name": "TSN",
+              "value": 74,
+              "Company": "Tyson Foods"
+            },
+            {
+              "rate": -3.941885077,
+              "name": "WMT",
+              "value": 79,
+              "Company": "Walmart"
+            },
+            {
+              "rate": 2.302008358,
+              "name": "WBA",
+              "value": 99,
+              "Company": "Walgreens Boots Alliance"
+            }
+          ]
+    },
+    {
+        "name": "ENERGY", 
+        "children":[
+            {
+              "rate": -1.896428644,
+              "name": "APA",
+              "value": 83,
+              "Company": "Apache Corporation"
+            },
+            {
+              "rate": 1.978342662,
+              "name": "BHGE",
+              "value": 30,
+              "Company": "Baker Hughes, a GE Company"
+            },
+            {
+              "rate": -1.933938892,
+              "name": "COG",
+              "value": 1,
+              "Company": "Cabot Oil & Gas"
+            },
+            {
+              "rate": -3.873407769,
+              "name": "CVX",
+              "value": 22,
+              "Company": "Chevron Corp."
+            },
+            {
+              "rate": -3.83445514,
+              "name": "XEC",
+              "value": 53,
+              "Company": "Cimarex Energy"
+            },
+            {
+              "rate": -1.66718143,
+              "name": "CXO",
+              "value": 84,
+              "Company": "Concho Resources"
+            },
+            {
+              "rate": -3.771332215,
+              "name": "COP",
+              "value": 66,
+              "Company": "ConocoPhillips"
+            },
+            {
+              "rate": 3.524752232,
+              "name": "DVN",
+              "value": 84,
+              "Company": "Devon Energy"
+            },
+            {
+              "rate": -1.684159324,
+              "name": "FANG",
+              "value": 20,
+              "Company": "Diamondback Energy"
+            },
+            {
+              "rate": -3.20548324,
+              "name": "EOG",
+              "value": 87,
+              "Company": "EOG Resources"
+            },
+            {
+              "rate": 1.324419693,
+              "name": "XOM",
+              "value": 48,
+              "Company": "Exxon Mobil Corp."
+            },
+            {
+              "rate": 0.991849594,
+              "name": "HAL",
+              "value": 90,
+              "Company": "Halliburton Co."
+            },
+            {
+              "rate": 0.765809322,
+              "name": "HP",
+              "value": 64,
+              "Company": "Helmerich & Payne"
+            },
+            {
+              "rate": -1.579252068,
+              "name": "HES",
+              "value": 13,
+              "Company": "Hess Corporation"
+            },
+            {
+              "rate": -3.928653735,
+              "name": "HFC",
+              "value": 23,
+              "Company": "HollyFrontier Corp"
+            },
+            {
+              "rate": 3.533022473,
+              "name": "KMI",
+              "value": 85,
+              "Company": "Kinder Morgan"
+            },
+            {
+              "rate": 0.56937433,
+              "name": "MRO",
+              "value": 42,
+              "Company": "Marathon Oil Corp."
+            },
+            {
+              "rate": -2.095891057,
+              "name": "MPC",
+              "value": 84,
+              "Company": "Marathon Petroleum"
+            },
+            {
+              "rate": -3.116664609,
+              "name": "NOV",
+              "value": 60,
+              "Company": "National Oilwell Varco Inc."
+            },
+            {
+              "rate": 3.547262909,
+              "name": "NBL",
+              "value": 1,
+              "Company": "Noble Energy Inc"
+            },
+            {
+              "rate": 2.771269019,
+              "name": "OXY",
+              "value": 50,
+              "Company": "Occidental Petroleum"
+            },
+            {
+              "rate": -2.380156327,
+              "name": "OKE",
+              "value": 13,
+              "Company": "ONEOK"
+            },
+            {
+              "rate": 0.327328541,
+              "name": "PSX",
+              "value": 47,
+              "Company": "Phillips 66"
+            },
+            {
+              "rate": -4.013461384,
+              "name": "PXD",
+              "value": 37,
+              "Company": "Pioneer Natural Resources"
+            },
+            {
+              "rate": -1.512955882,
+              "name": "SLB",
+              "value": 77,
+              "Company": "Schlumberger Ltd."
+            },
+            {
+              "rate": -2.79256558,
+              "name": "FTI",
+              "value": 76,
+              "Company": "TechnipFMC"
+            },
+            {
+              "rate": 3.171266184,
+              "name": "VLO",
+              "value": 5,
+              "Company": "Valero Energy"
+            },
+            {
+              "rate": 2.666822104,
+              "name": "WMB",
+              "value": 91,
+              "Company": "Williams Cos."
+            }
+          ]
+    },
+    {
+        "name": "FINANCIALS", 
+        "children":[
+            {
+              "rate": 0.69572449,
+              "name": "AMG",
+              "value": 6,
+              "Company": "Affiliated Managers Group Inc"
+            },
+            {
+              "rate": 0.4215857,
+              "name": "AFL",
+              "value": 8,
+              "Company": "AFLAC Inc"
+            },
+            {
+              "rate": 0.924908437,
+              "name": "ALL",
+              "value": 34,
+              "Company": "Allstate Corp"
+            },
+            {
+              "rate": 0.594760833,
+              "name": "AXP",
+              "value": 37,
+              "Company": "American Express Co"
+            },
+            {
+              "rate": 3.951294406,
+              "name": "AIG",
+              "value": 10,
+              "Company": "American International Group"
+            },
+            {
+              "rate": -2.084324681,
+              "name": "AMP",
+              "value": 75,
+              "Company": "Ameriprise Financial"
+            },
+            {
+              "rate": -3.205646768,
+              "name": "AON",
+              "value": 56,
+              "Company": "Aon plc"
+            },
+            {
+              "rate": 0.325386747,
+              "name": "AJG",
+              "value": 39,
+              "Company": "Arthur J. Gallagher & Co."
+            },
+            {
+              "rate": -1.462126003,
+              "name": "AIZ",
+              "value": 77,
+              "Company": "Assurant"
+            },
+            {
+              "rate": -2.898411416,
+              "name": "BAC",
+              "value": 98,
+              "Company": "Bank of America Corp"
+            },
+            {
+              "rate": -1.299479193,
+              "name": "BK",
+              "value": 78,
+              "Company": "The Bank of New York Mellon Corp."
+            },
+            {
+              "rate": 2.654555706,
+              "name": "BBT",
+              "value": 96,
+              "Company": "BB&T Corporation"
+            },
+            {
+              "rate": 3.469940791,
+              "name": "BRK.B",
+              "value": 9,
+              "Company": "Berkshire Hathaway"
+            },
+            {
+              "rate": -0.77534347,
+              "name": "BLK",
+              "value": 78,
+              "Company": "BlackRock"
+            },
+            {
+              "rate": -2.405734736,
+              "name": "COF",
+              "value": 1,
+              "Company": "Capital One Financial"
+            },
+            {
+              "rate": -0.302498656,
+              "name": "CBOE",
+              "value": 48,
+              "Company": "Cboe Global Markets"
+            },
+            {
+              "rate": 3.277781203,
+              "name": "SCHW",
+              "value": 97,
+              "Company": "Charles Schwab Corporation"
+            },
+            {
+              "rate": 3.834500284,
+              "name": "CB",
+              "value": 17,
+              "Company": "Chubb Limited"
+            },
+            {
+              "rate": 2.783902262,
+              "name": "CINF",
+              "value": 16,
+              "Company": "Cincinnati Financial"
+            },
+            {
+              "rate": -3.302261797,
+              "name": "C",
+              "value": 5,
+              "Company": "Citigroup Inc."
+            },
+            {
+              "rate": -3.616426899,
+              "name": "CFG",
+              "value": 47,
+              "Company": "Citizens Financial Group"
+            },
+            {
+              "rate": -2.640369756,
+              "name": "CME",
+              "value": 48,
+              "Company": "CME Group Inc."
+            },
+            {
+              "rate": -2.812152159,
+              "name": "CMA",
+              "value": 38,
+              "Company": "Comerica Inc."
+            },
+            {
+              "rate": 3.112022478,
+              "name": "DFS",
+              "value": 60,
+              "Company": "Discover Financial Services"
+            },
+            {
+              "rate": 4.041101521,
+              "name": "ETFC",
+              "value": 89,
+              "Company": "E*Trade"
+            },
+            {
+              "rate": 3.977500581,
+              "name": "RE",
+              "value": 62,
+              "Company": "Everest Re Group Ltd."
+            },
+            {
+              "rate": -3.069805597,
+              "name": "FITB",
+              "value": 76,
+              "Company": "Fifth Third Bancorp"
+            },
+            {
+              "rate": -3.98292308,
+              "name": "FRC",
+              "value": 8,
+              "Company": "First Republic Bank"
+            },
+            {
+              "rate": -2.963777034,
+              "name": "BEN",
+              "value": 27,
+              "Company": "Franklin Resources"
+            },
+            {
+              "rate": -3.045040186,
+              "name": "GL",
+              "value": 48,
+              "Company": "Globe Life Inc."
+            },
+            {
+              "rate": -2.62697173,
+              "name": "GS",
+              "value": 92,
+              "Company": "Goldman Sachs Group"
+            },
+            {
+              "rate": 2.095595962,
+              "name": "HIG",
+              "value": 82,
+              "Company": "Hartford Financial Svc.Gp."
+            },
+            {
+              "rate": 3.526243112,
+              "name": "HBAN",
+              "value": 46,
+              "Company": "Huntington Bancshares"
+            },
+            {
+              "rate": -0.122750593,
+              "name": "ICE",
+              "value": 2,
+              "Company": "Intercontinental Exchange"
+            },
+            {
+              "rate": -3.519546644,
+              "name": "IVZ",
+              "value": 19,
+              "Company": "Invesco Ltd."
+            },
+            {
+              "rate": -2.284862162,
+              "name": "JPM",
+              "value": 13,
+              "Company": "JPMorgan Chase & Co."
+            },
+            {
+              "rate": -0.362844838,
+              "name": "KEY",
+              "value": 38,
+              "Company": "KeyCorp"
+            },
+            {
+              "rate": -1.306998265,
+              "name": "LNC",
+              "value": 3,
+              "Company": "Lincoln National"
+            },
+            {
+              "rate": 1.271273952,
+              "name": "L",
+              "value": 34,
+              "Company": "Loews Corp."
+            },
+            {
+              "rate": -3.219689626,
+              "name": "MTB",
+              "value": 25,
+              "Company": "M&T Bank Corp."
+            },
+            {
+              "rate": 3.978464509,
+              "name": "MKTX",
+              "value": 64,
+              "Company": "MarketAxess"
+            },
+            {
+              "rate": -2.757091899,
+              "name": "MMC",
+              "value": 49,
+              "Company": "Marsh & McLennan"
+            },
+            {
+              "rate": -2.886052505,
+              "name": "MET",
+              "value": 50,
+              "Company": "MetLife Inc."
+            },
+            {
+              "rate": 1.514181651,
+              "name": "MCO",
+              "value": 48,
+              "Company": "Moody's Corp"
+            },
+            {
+              "rate": -1.448454518,
+              "name": "MS",
+              "value": 78,
+              "Company": "Morgan Stanley"
+            },
+            {
+              "rate": -3.574615146,
+              "name": "MSCI",
+              "value": 68,
+              "Company": "MSCI Inc"
+            },
+            {
+              "rate": 0.127342921,
+              "name": "NDAQ",
+              "value": 43,
+              "Company": "Nasdaq, Inc."
+            },
+            {
+              "rate": 3.088606336,
+              "name": "NTRS",
+              "value": 2,
+              "Company": "Northern Trust Corp."
+            },
+            {
+              "rate": -2.067795425,
+              "name": "PBCT",
+              "value": 14,
+              "Company": "People's United Financial"
+            },
+            {
+              "rate": -3.40442352,
+              "name": "PNC",
+              "value": 21,
+              "Company": "PNC Financial Services"
+            },
+            {
+              "rate": -0.958636329,
+              "name": "PFG",
+              "value": 64,
+              "Company": "Principal Financial Group"
+            },
+            {
+              "rate": -0.497948033,
+              "name": "PGR",
+              "value": 20,
+              "Company": "Progressive Corp."
+            },
+            {
+              "rate": -0.813981391,
+              "name": "PRU",
+              "value": 56,
+              "Company": "Prudential Financial"
+            },
+            {
+              "rate": 3.89895322,
+              "name": "RJF",
+              "value": 70,
+              "Company": "Raymond James Financial Inc."
+            },
+            {
+              "rate": -2.82115945,
+              "name": "RF",
+              "value": 82,
+              "Company": "Regions Financial Corp."
+            },
+            {
+              "rate": -2.412635037,
+              "name": "SPGI",
+              "value": 48,
+              "Company": "S&P Global, Inc."
+            },
+            {
+              "rate": -1.314521586,
+              "name": "STT",
+              "value": 3,
+              "Company": "State Street Corp."
+            },
+            {
+              "rate": 0.831500162,
+              "name": "STI",
+              "value": 20,
+              "Company": "SunTrust Banks"
+            },
+            {
+              "rate": -3.575140593,
+              "name": "SIVB",
+              "value": 41,
+              "Company": "SVB Financial"
+            },
+            {
+              "rate": 2.686231631,
+              "name": "SYF",
+              "value": 54,
+              "Company": "Synchrony Financial"
+            },
+            {
+              "rate": -2.758632006,
+              "name": "TROW",
+              "value": 33,
+              "Company": "T. Rowe Price Group"
+            },
+            {
+              "rate": 2.964130558,
+              "name": "TRV",
+              "value": 47,
+              "Company": "The Travelers Companies Inc."
+            },
+            {
+              "rate": 3.88764633,
+              "name": "USB",
+              "value": 38,
+              "Company": "U.S. Bancorp"
+            },
+            {
+              "rate": 1.282583124,
+              "name": "UNM",
+              "value": 74,
+              "Company": "Unum Group"
+            },
+            {
+              "rate": 1.929787038,
+              "name": "WFC",
+              "value": 73,
+              "Company": "Wells Fargo"
+            },
+            {
+              "rate": -3.729044669,
+              "name": "WLTW",
+              "value": 50,
+              "Company": "Willis Towers Watson"
+            },
+            {
+              "rate": 3.374861373,
+              "name": "ZION",
+              "value": 90,
+              "Company": "Zions Bancorp"
+            }
+          ]
+    },
+    {
+        "name": "HEALTHCARE", 
+        "children":[
+            {
+              "rate": 4.023492268,
+              "name": "ABT",
+              "value": 85,
+              "Company": "Abbott Laboratories"
+            },
+            {
+              "rate": 3.285796317,
+              "name": "ABBV",
+              "value": 43,
+              "Company": "AbbVie Inc."
+            },
+            {
+              "rate": -4.051184833,
+              "name": "ABMD",
+              "value": 100,
+              "Company": "ABIOMED Inc"
+            },
+            {
+              "rate": 3.944398548,
+              "name": "A",
+              "value": 64,
+              "Company": "Agilent Technologies Inc"
+            },
+            {
+              "rate": 1.601951928,
+              "name": "ALXN",
+              "value": 83,
+              "Company": "Alexion Pharmaceuticals"
+            },
+            {
+              "rate": -3.132195165,
+              "name": "ALGN",
+              "value": 67,
+              "Company": "Align Technology"
+            },
+            {
+              "rate": 1.303638179,
+              "name": "AGN",
+              "value": 64,
+              "Company": "Allergan, Plc"
+            },
+            {
+              "rate": 2.35851332,
+              "name": "ABC",
+              "value": 89,
+              "Company": "AmerisourceBergen Corp"
+            },
+            {
+              "rate": -1.177591678,
+              "name": "AMGN",
+              "value": 82,
+              "Company": "Amgen Inc."
+            },
+            {
+              "rate": -2.535298346,
+              "name": "ANTM",
+              "value": 29,
+              "Company": "Anthem"
+            },
+            {
+              "rate": 2.161689551,
+              "name": "BAX",
+              "value": 97,
+              "Company": "Baxter International Inc."
+            },
+            {
+              "rate": -3.624848872,
+              "name": "BDX",
+              "value": 43,
+              "Company": "Becton Dickinson"
+            },
+            {
+              "rate": -2.774264765,
+              "name": "BIIB",
+              "value": 66,
+              "Company": "Biogen Inc."
+            },
+            {
+              "rate": -3.570320421,
+              "name": "BSX",
+              "value": 95,
+              "Company": "Boston Scientific"
+            },
+            {
+              "rate": -3.359553898,
+              "name": "BMY",
+              "value": 29,
+              "Company": "Bristol-Myers Squibb"
+            },
+            {
+              "rate": -3.62046803,
+              "name": "CAH",
+              "value": 63,
+              "Company": "Cardinal Health Inc."
+            },
+            {
+              "rate": -1.580813759,
+              "name": "CELG",
+              "value": 37,
+              "Company": "Celgene Corp."
+            },
+            {
+              "rate": 0.693852244,
+              "name": "CNC",
+              "value": 11,
+              "Company": "Centene Corporation"
+            },
+            {
+              "rate": 1.271339138,
+              "name": "CERN",
+              "value": 100,
+              "Company": "Cerner"
+            },
+            {
+              "rate": -3.012352542,
+              "name": "CI",
+              "value": 14,
+              "Company": "CIGNA Corp."
+            },
+            {
+              "rate": 3.592942681,
+              "name": "COO",
+              "value": 76,
+              "Company": "The Cooper Companies"
+            },
+            {
+              "rate": -2.326388602,
+              "name": "CVS",
+              "value": 5,
+              "Company": "CVS Health"
+            },
+            {
+              "rate": 3.866746634,
+              "name": "DHR",
+              "value": 6,
+              "Company": "Danaher Corp."
+            },
+            {
+              "rate": -3.309243445,
+              "name": "DVA",
+              "value": 34,
+              "Company": "DaVita Inc."
+            },
+            {
+              "rate": -0.577502908,
+              "name": "XRAY",
+              "value": 73,
+              "Company": "Dentsply Sirona"
+            },
+            {
+              "rate": 1.150020781,
+              "name": "EW",
+              "value": 12,
+              "Company": "Edwards Lifesciences"
+            },
+            {
+              "rate": 2.258694016,
+              "name": "GILD",
+              "value": 53,
+              "Company": "Gilead Sciences"
+            },
+            {
+              "rate": 3.163585095,
+              "name": "HCA",
+              "value": 17,
+              "Company": "HCA Healthcare"
+            },
+            {
+              "rate": -1.322841985,
+              "name": "HSIC",
+              "value": 53,
+              "Company": "Henry Schein"
+            },
+            {
+              "rate": -3.325570603,
+              "name": "HOLX",
+              "value": 86,
+              "Company": "Hologic"
+            },
+            {
+              "rate": -2.27752941,
+              "name": "HUM",
+              "value": 39,
+              "Company": "Humana Inc."
+            },
+            {
+              "rate": 3.398130578,
+              "name": "IDXX",
+              "value": 39,
+              "Company": "IDEXX Laboratories"
+            },
+            {
+              "rate": 0.560597178,
+              "name": "ILMN",
+              "value": 56,
+              "Company": "Illumina Inc"
+            },
+            {
+              "rate": -0.638121443,
+              "name": "INCY",
+              "value": 39,
+              "Company": "Incyte"
+            },
+            {
+              "rate": 0.793465943,
+              "name": "ISRG",
+              "value": 7,
+              "Company": "Intuitive Surgical Inc."
+            },
+            {
+              "rate": -1.056678861,
+              "name": "IQV",
+              "value": 68,
+              "Company": "IQVIA Holdings Inc."
+            },
+            {
+              "rate": 2.28371239,
+              "name": "JNJ",
+              "value": 60,
+              "Company": "Johnson & Johnson"
+            },
+            {
+              "rate": -3.812498326,
+              "name": "LH",
+              "value": 82,
+              "Company": "Laboratory Corp. of America Holding"
+            },
+            {
+              "rate": 3.612710662,
+              "name": "LLY",
+              "value": 92,
+              "Company": "Lilly (Eli) & Co."
+            },
+            {
+              "rate": 3.427591767,
+              "name": "MCK",
+              "value": 43,
+              "Company": "McKesson Corp."
+            },
+            {
+              "rate": 3.46353488,
+              "name": "MDT",
+              "value": 11,
+              "Company": "Medtronic plc"
+            },
+            {
+              "rate": 2.752429446,
+              "name": "MRK",
+              "value": 100,
+              "Company": "Merck & Co."
+            },
+            {
+              "rate": -1.105188456,
+              "name": "MTD",
+              "value": 53,
+              "Company": "Mettler Toledo"
+            },
+            {
+              "rate": 2.308014832,
+              "name": "MYL",
+              "value": 84,
+              "Company": "Mylan N.V."
+            },
+            {
+              "rate": -3.620833727,
+              "name": "PKI",
+              "value": 67,
+              "Company": "PerkinElmer"
+            },
+            {
+              "rate": -1.719397606,
+              "name": "PRGO",
+              "value": 36,
+              "Company": "Perrigo"
+            },
+            {
+              "rate": 1.309741255,
+              "name": "PFE",
+              "value": 47,
+              "Company": "Pfizer Inc."
+            },
+            {
+              "rate": 3.496304887,
+              "name": "DGX",
+              "value": 51,
+              "Company": "Quest Diagnostics"
+            },
+            {
+              "rate": 1.166924872,
+              "name": "REGN",
+              "value": 68,
+              "Company": "Regeneron Pharmaceuticals"
+            },
+            {
+              "rate": 0.753497128,
+              "name": "RMD",
+              "value": 27,
+              "Company": "ResMed"
+            },
+            {
+              "rate": -0.548372929,
+              "name": "SYK",
+              "value": 57,
+              "Company": "Stryker Corp."
+            },
+            {
+              "rate": -2.538420195,
+              "name": "TFX",
+              "value": 73,
+              "Company": "Teleflex"
+            },
+            {
+              "rate": -0.361013538,
+              "name": "TMO",
+              "value": 75,
+              "Company": "Thermo Fisher Scientific"
+            },
+            {
+              "rate": -3.672819125,
+              "name": "UNH",
+              "value": 23,
+              "Company": "United Health Group Inc."
+            },
+            {
+              "rate": 0.105780199,
+              "name": "UHS",
+              "value": 11,
+              "Company": "Universal Health Services, Inc."
+            },
+            {
+              "rate": 1.905846523,
+              "name": "VAR",
+              "value": 99,
+              "Company": "Varian Medical Systems"
+            },
+            {
+              "rate": -1.589566228,
+              "name": "VRTX",
+              "value": 54,
+              "Company": "Vertex Pharmaceuticals Inc"
+            },
+            {
+              "rate": -2.292101953,
+              "name": "WAT",
+              "value": 19,
+              "Company": "Waters Corporation"
+            },
+            {
+              "rate": -2.716628222,
+              "name": "WCG",
+              "value": 82,
+              "Company": "WellCare"
+            },
+            {
+              "rate": 2.567637253,
+              "name": "ZBH",
+              "value": 6,
+              "Company": "Zimmer Biomet Holdings"
+            },
+            {
+              "rate": 2.660258059,
+              "name": "ZTS",
+              "value": 7,
+              "Company": "Zoetis"
+            }
+          ]
+    },
+    {
+        "name": "INDUSTRIALS", 
+        "children":[
+            {
+              "rate": -0.415161847,
+              "name": "MMM",
+              "value": 96,
+              "Company": "3M Company"
+            },
+            {
+              "rate": -1.249979706,
+              "name": "ALK",
+              "value": 23,
+              "Company": "Alaska Air Group Inc"
+            },
+            {
+              "rate": 3.22050333,
+              "name": "ALLE",
+              "value": 76,
+              "Company": "Allegion"
+            },
+            {
+              "rate": 0.373566409,
+              "name": "AAL",
+              "value": 60,
+              "Company": "American Airlines Group"
+            },
+            {
+              "rate": -1.854411986,
+              "name": "AME",
+              "value": 23,
+              "Company": "AMETEK Inc."
+            },
+            {
+              "rate": 3.069208149,
+              "name": "AOS",
+              "value": 70,
+              "Company": "A.O. Smith Corp"
+            },
+            {
+              "rate": 3.706363127,
+              "name": "ARNC",
+              "value": 55,
+              "Company": "Arconic Inc."
+            },
+            {
+              "rate": -1.495762188,
+              "name": "BA",
+              "value": 64,
+              "Company": "Boeing Company"
+            },
+            {
+              "rate": -1.470418925,
+              "name": "CHRW",
+              "value": 61,
+              "Company": "C. H. Robinson Worldwide"
+            },
+            {
+              "rate": 0.86658835,
+              "name": "CAT",
+              "value": 75,
+              "Company": "Caterpillar Inc."
+            },
+            {
+              "rate": 3.721862394,
+              "name": "CTAS",
+              "value": 98,
+              "Company": "Cintas Corporation"
+            },
+            {
+              "rate": -1.428430151,
+              "name": "CPRT",
+              "value": 9,
+              "Company": "Copart Inc"
+            },
+            {
+              "rate": 3.343005766,
+              "name": "CSX",
+              "value": 80,
+              "Company": "CSX Corp."
+            },
+            {
+              "rate": 2.913915783,
+              "name": "CMI",
+              "value": 73,
+              "Company": "Cummins Inc."
+            },
+            {
+              "rate": -4.078487845,
+              "name": "DE",
+              "value": 42,
+              "Company": "Deere & Co."
+            },
+            {
+              "rate": -2.013605498,
+              "name": "DAL",
+              "value": 12,
+              "Company": "Delta Air Lines Inc."
+            },
+            {
+              "rate": -3.725338752,
+              "name": "DOV",
+              "value": 94,
+              "Company": "Dover Corp."
+            },
+            {
+              "rate": -1.705131215,
+              "name": "ETN",
+              "value": 33,
+              "Company": "Eaton Corporation"
+            },
+            {
+              "rate": 2.944290952,
+              "name": "EMR",
+              "value": 19,
+              "Company": "Emerson Electric Company"
+            },
+            {
+              "rate": 2.491901182,
+              "name": "EFX",
+              "value": 4,
+              "Company": "Equifax Inc."
+            },
+            {
+              "rate": -1.155135881,
+              "name": "EXPD",
+              "value": 31,
+              "Company": "Expeditors"
+            },
+            {
+              "rate": 2.523692477,
+              "name": "FAST",
+              "value": 88,
+              "Company": "Fastenal Co"
+            },
+            {
+              "rate": -2.769915733,
+              "name": "FDX",
+              "value": 52,
+              "Company": "FedEx Corporation"
+            },
+            {
+              "rate": -0.442629595,
+              "name": "FLS",
+              "value": 69,
+              "Company": "Flowserve Corporation"
+            },
+            {
+              "rate": -2.252951719,
+              "name": "FTV",
+              "value": 12,
+              "Company": "Fortive Corp"
+            },
+            {
+              "rate": -1.762004625,
+              "name": "FBHS",
+              "value": 62,
+              "Company": "Fortune Brands Home & Security"
+            },
+            {
+              "rate": 3.320161355,
+              "name": "GD",
+              "value": 88,
+              "Company": "General Dynamics"
+            },
+            {
+              "rate": -2.465036339,
+              "name": "GE",
+              "value": 24,
+              "Company": "General Electric"
+            },
+            {
+              "rate": -0.754951217,
+              "name": "GWW",
+              "value": 38,
+              "Company": "Grainger (W.W.) Inc."
+            },
+            {
+              "rate": -0.499924029,
+              "name": "HON",
+              "value": 46,
+              "Company": "Honeywell Int'l Inc."
+            },
+            {
+              "rate": 3.333869462,
+              "name": "HII",
+              "value": 26,
+              "Company": "Huntington Ingalls Industries"
+            },
+            {
+              "rate": 0.653883748,
+              "name": "IEX",
+              "value": 27,
+              "Company": "IDEX Corporation"
+            },
+            {
+              "rate": 4.090036944,
+              "name": "INFO",
+              "value": 76,
+              "Company": "IHS Markit Ltd."
+            },
+            {
+              "rate": -0.196224808,
+              "name": "ITW",
+              "value": 7,
+              "Company": "Illinois Tool Works"
+            },
+            {
+              "rate": -0.77004144,
+              "name": "IR",
+              "value": 68,
+              "Company": "Ingersoll-Rand PLC"
+            },
+            {
+              "rate": 2.774509945,
+              "name": "JEC",
+              "value": 31,
+              "Company": "Jacobs Engineering Group"
+            },
+            {
+              "rate": -2.367044887,
+              "name": "JBHT",
+              "value": 71,
+              "Company": "J. B. Hunt Transport Services"
+            },
+            {
+              "rate": 3.002638463,
+              "name": "JCI",
+              "value": 2,
+              "Company": "Johnson Controls International"
+            },
+            {
+              "rate": -2.086218631,
+              "name": "KSU",
+              "value": 7,
+              "Company": "Kansas City Southern"
+            },
+            {
+              "rate": -3.400855433,
+              "name": "LHX",
+              "value": 32,
+              "Company": "L3Harris Technologies"
+            },
+            {
+              "rate": 2.543628891,
+              "name": "LMT",
+              "value": 41,
+              "Company": "Lockheed Martin Corp."
+            },
+            {
+              "rate": -2.555621596,
+              "name": "MAS",
+              "value": 88,
+              "Company": "Masco Corp."
+            },
+            {
+              "rate": -0.907618381,
+              "name": "NLSN",
+              "value": 86,
+              "Company": "Nielsen Holdings"
+            },
+            {
+              "rate": 3.467992431,
+              "name": "NSC",
+              "value": 64,
+              "Company": "Norfolk Southern Corp."
+            },
+            {
+              "rate": -1.421836515,
+              "name": "NOC",
+              "value": 44,
+              "Company": "Northrop Grumman"
+            },
+            {
+              "rate": -0.678444031,
+              "name": "PCAR",
+              "value": 32,
+              "Company": "PACCAR Inc."
+            },
+            {
+              "rate": 0.113259214,
+              "name": "PH",
+              "value": 85,
+              "Company": "Parker-Hannifin"
+            },
+            {
+              "rate": -2.44626848,
+              "name": "PNR",
+              "value": 52,
+              "Company": "Pentair plc"
+            },
+            {
+              "rate": 0.812867961,
+              "name": "PWR",
+              "value": 79,
+              "Company": "Quanta Services Inc."
+            },
+            {
+              "rate": 1.405161273,
+              "name": "RTN",
+              "value": 25,
+              "Company": "Raytheon Co."
+            },
+            {
+              "rate": 3.735235381,
+              "name": "RSG",
+              "value": 8,
+              "Company": "Republic Services Inc"
+            },
+            {
+              "rate": -2.907170805,
+              "name": "RHI",
+              "value": 31,
+              "Company": "Robert Half International"
+            },
+            {
+              "rate": 0.637800643,
+              "name": "ROK",
+              "value": 74,
+              "Company": "Rockwell Automation Inc."
+            },
+            {
+              "rate": -2.013503092,
+              "name": "ROL",
+              "value": 55,
+              "Company": "Rollins Inc."
+            },
+            {
+              "rate": 3.111256893,
+              "name": "ROP",
+              "value": 75,
+              "Company": "Roper Technologies"
+            },
+            {
+              "rate": 4.031609677,
+              "name": "SNA",
+              "value": 73,
+              "Company": "Snap-on"
+            },
+            {
+              "rate": -3.050297072,
+              "name": "LUV",
+              "value": 26,
+              "Company": "Southwest Airlines"
+            },
+            {
+              "rate": 0.795563431,
+              "name": "SWK",
+              "value": 75,
+              "Company": "Stanley Black & Decker"
+            },
+            {
+              "rate": 0.278979063,
+              "name": "TXT",
+              "value": 27,
+              "Company": "Textron Inc."
+            },
+            {
+              "rate": 2.479028927,
+              "name": "TDG",
+              "value": 3,
+              "Company": "TransDigm Group"
+            },
+            {
+              "rate": -1.637646018,
+              "name": "UNP",
+              "value": 48,
+              "Company": "Union Pacific Corp"
+            },
+            {
+              "rate": 3.463249206,
+              "name": "UAL",
+              "value": 56,
+              "Company": "United Airlines Holdings"
+            },
+            {
+              "rate": 3.535085279,
+              "name": "UPS",
+              "value": 79,
+              "Company": "United Parcel Service"
+            },
+            {
+              "rate": -0.392553114,
+              "name": "URI",
+              "value": 86,
+              "Company": "United Rentals, Inc."
+            },
+            {
+              "rate": 3.419265967,
+              "name": "UTX",
+              "value": 70,
+              "Company": "United Technologies"
+            },
+            {
+              "rate": 0.597605727,
+              "name": "VRSK",
+              "value": 26,
+              "Company": "Verisk Analytics"
+            },
+            {
+              "rate": 2.309087551,
+              "name": "WAB",
+              "value": 5,
+              "Company": "Wabtec Corporation"
+            },
+            {
+              "rate": -1.075701016,
+              "name": "WM",
+              "value": 91,
+              "Company": "Waste Management Inc."
+            },
+            {
+              "rate": 1.395599766,
+              "name": "XYL",
+              "value": 20,
+              "Company": "Xylem Inc."
+            }
+          ]
+    },
+    {
+        "name": "INFORMATION TECHNOLOGY", 
+        "children":[
+            {
+              "rate": -1.98509108,
+              "name": "ACN",
+              "value": 93,
+              "Company": "Accenture plc"
+            },
+            {
+              "rate": -1.150522852,
+              "name": "ADBE",
+              "value": 37,
+              "Company": "Adobe Systems Inc"
+            },
+            {
+              "rate": -3.699976518,
+              "name": "AMD",
+              "value": 39,
+              "Company": "Advanced Micro Devices Inc"
+            },
+            {
+              "rate": -3.47992159,
+              "name": "AKAM",
+              "value": 46,
+              "Company": "Akamai Technologies Inc"
+            },
+            {
+              "rate": -2.997827052,
+              "name": "ADS",
+              "value": 40,
+              "Company": "Alliance Data Systems"
+            },
+            {
+              "rate": -4.071005093,
+              "name": "APH",
+              "value": 84,
+              "Company": "Amphenol Corp"
+            },
+            {
+              "rate": 2.014821196,
+              "name": "ADI",
+              "value": 7,
+              "Company": "Analog Devices, Inc."
+            },
+            {
+              "rate": -1.95382035,
+              "name": "ANSS",
+              "value": 80,
+              "Company": "ANSYS"
+            },
+            {
+              "rate": -1.867253225,
+              "name": "AAPL",
+              "value": 34,
+              "Company": "Apple Inc."
+            },
+            {
+              "rate": -1.217462425,
+              "name": "AMAT",
+              "value": 50,
+              "Company": "Applied Materials Inc."
+            },
+            {
+              "rate": 2.737170637,
+              "name": "ANET",
+              "value": 9,
+              "Company": "Arista Networks"
+            },
+            {
+              "rate": 2.848921595,
+              "name": "ADSK",
+              "value": 78,
+              "Company": "Autodesk Inc."
+            },
+            {
+              "rate": -3.883165387,
+              "name": "ADP",
+              "value": 47,
+              "Company": "Automatic Data Processing"
+            },
+            {
+              "rate": -1.691487338,
+              "name": "AVGO",
+              "value": 86,
+              "Company": "Broadcom Inc."
+            },
+            {
+              "rate": -3.264800514,
+              "name": "BR",
+              "value": 13,
+              "Company": "Broadridge Financial Solutions"
+            },
+            {
+              "rate": -1.661431523,
+              "name": "CDNS",
+              "value": 21,
+              "Company": "Cadence Design Systems"
+            },
+            {
+              "rate": 0.794342813,
+              "name": "CDW",
+              "value": 27,
+              "Company": "CDW"
+            },
+            {
+              "rate": -3.160076605,
+              "name": "CSCO",
+              "value": 51,
+              "Company": "Cisco Systems"
+            },
+            {
+              "rate": 2.961967461,
+              "name": "CTXS",
+              "value": 59,
+              "Company": "Citrix Systems"
+            },
+            {
+              "rate": -2.969063624,
+              "name": "CTSH",
+              "value": 4,
+              "Company": "Cognizant Technology Solutions"
+            },
+            {
+              "rate": 1.867916248,
+              "name": "GLW",
+              "value": 5,
+              "Company": "Corning Inc."
+            },
+            {
+              "rate": 2.63092511,
+              "name": "DXC",
+              "value": 40,
+              "Company": "DXC Technology"
+            },
+            {
+              "rate": 3.226603004,
+              "name": "FFIV",
+              "value": 1,
+              "Company": "F5 Networks"
+            },
+            {
+              "rate": -3.623537825,
+              "name": "FIS",
+              "value": 53,
+              "Company": "Fidelity National Information Services"
+            },
+            {
+              "rate": 0.380726402,
+              "name": "FISV",
+              "value": 40,
+              "Company": "Fiserv Inc"
+            },
+            {
+              "rate": -2.162816463,
+              "name": "FLT",
+              "value": 1,
+              "Company": "FleetCor Technologies Inc"
+            },
+            {
+              "rate": 2.504763795,
+              "name": "FLIR",
+              "value": 23,
+              "Company": "FLIR Systems"
+            },
+            {
+              "rate": -3.240626216,
+              "name": "FTNT",
+              "value": 84,
+              "Company": "Fortinet"
+            },
+            {
+              "rate": 2.526567029,
+              "name": "IT",
+              "value": 10,
+              "Company": "Gartner Inc"
+            },
+            {
+              "rate": -3.874028673,
+              "name": "GPN",
+              "value": 11,
+              "Company": "Global Payments Inc."
+            },
+            {
+              "rate": -4.082361788,
+              "name": "HPE",
+              "value": 37,
+              "Company": "Hewlett Packard Enterprise"
+            },
+            {
+              "rate": 3.780919239,
+              "name": "HPQ",
+              "value": 32,
+              "Company": "HP Inc."
+            },
+            {
+              "rate": 3.46920712,
+              "name": "INTC",
+              "value": 32,
+              "Company": "Intel Corp."
+            },
+            {
+              "rate": -0.285477737,
+              "name": "IBM",
+              "value": 27,
+              "Company": "International Business Machines"
+            },
+            {
+              "rate": 3.804578888,
+              "name": "INTU",
+              "value": 56,
+              "Company": "Intuit Inc."
+            },
+            {
+              "rate": 2.390555962,
+              "name": "IPGP",
+              "value": 5,
+              "Company": "IPG Photonics Corp."
+            },
+            {
+              "rate": 2.604368231,
+              "name": "JKHY",
+              "value": 76,
+              "Company": "Jack Henry & Associates"
+            },
+            {
+              "rate": 1.44748611,
+              "name": "JNPR",
+              "value": 23,
+              "Company": "Juniper Networks"
+            },
+            {
+              "rate": 3.794248097,
+              "name": "KEYS",
+              "value": 17,
+              "Company": "Keysight Technologies"
+            },
+            {
+              "rate": -2.444800713,
+              "name": "KLAC",
+              "value": 19,
+              "Company": "KLA Corporation"
+            },
+            {
+              "rate": 1.597094038,
+              "name": "LRCX",
+              "value": 62,
+              "Company": "Lam Research"
+            },
+            {
+              "rate": -1.582040208,
+              "name": "LDOS",
+              "value": 60,
+              "Company": "Leidos Holdings"
+            },
+            {
+              "rate": 0.247067471,
+              "name": "MA",
+              "value": 86,
+              "Company": "Mastercard Inc."
+            },
+            {
+              "rate": -1.784020394,
+              "name": "MXIM",
+              "value": 100,
+              "Company": "Maxim Integrated Products Inc"
+            },
+            {
+              "rate": 0.277721066,
+              "name": "MCHP",
+              "value": 29,
+              "Company": "Microchip Technology"
+            },
+            {
+              "rate": -3.2666501,
+              "name": "MU",
+              "value": 7,
+              "Company": "Micron Technology"
+            },
+            {
+              "rate": 2.090304955,
+              "name": "MSFT",
+              "value": 32,
+              "Company": "Microsoft Corp."
+            },
+            {
+              "rate": -2.449476772,
+              "name": "MSI",
+              "value": 42,
+              "Company": "Motorola Solutions Inc."
+            },
+            {
+              "rate": -1.319066927,
+              "name": "NTAP",
+              "value": 23,
+              "Company": "NetApp"
+            },
+            {
+              "rate": 1.238829049,
+              "name": "NVDA",
+              "value": 89,
+              "Company": "Nvidia Corporation"
+            },
+            {
+              "rate": -3.575549908,
+              "name": "ORCL",
+              "value": 11,
+              "Company": "Oracle Corp."
+            },
+            {
+              "rate": 1.364274195,
+              "name": "PAYX",
+              "value": 86,
+              "Company": "Paychex Inc."
+            },
+            {
+              "rate": 2.537609946,
+              "name": "PYPL",
+              "value": 9,
+              "Company": "PayPal"
+            },
+            {
+              "rate": -1.659320745,
+              "name": "QRVO",
+              "value": 48,
+              "Company": "Qorvo"
+            },
+            {
+              "rate": 0.153190277,
+              "name": "QCOM",
+              "value": 73,
+              "Company": "QUALCOMM Inc."
+            },
+            {
+              "rate": 0.207231716,
+              "name": "CRM",
+              "value": 17,
+              "Company": "Salesforce.com"
+            },
+            {
+              "rate": 2.566620699,
+              "name": "STX",
+              "value": 98,
+              "Company": "Seagate Technology"
+            },
+            {
+              "rate": 2.075978522,
+              "name": "SWKS",
+              "value": 47,
+              "Company": "Skyworks Solutions"
+            },
+            {
+              "rate": -2.822475742,
+              "name": "SYMC",
+              "value": 93,
+              "Company": "Symantec Corp."
+            },
+            {
+              "rate": 3.433076926,
+              "name": "SNPS",
+              "value": 29,
+              "Company": "Synopsys Inc."
+            },
+            {
+              "rate": 2.058081653,
+              "name": "TEL",
+              "value": 15,
+              "Company": "TE Connectivity Ltd."
+            },
+            {
+              "rate": 2.638720952,
+              "name": "TXN",
+              "value": 1,
+              "Company": "Texas Instruments"
+            },
+            {
+              "rate": 2.76207133,
+              "name": "VRSN",
+              "value": 66,
+              "Company": "Verisign Inc."
+            },
+            {
+              "rate": 1.095842786,
+              "name": "V",
+              "value": 93,
+              "Company": "Visa Inc."
+            },
+            {
+              "rate": 4.075305281,
+              "name": "WDC",
+              "value": 57,
+              "Company": "Western Digital"
+            },
+            {
+              "rate": -1.65217819,
+              "name": "WU",
+              "value": 38,
+              "Company": "Western Union Co"
+            },
+            {
+              "rate": -1.390531889,
+              "name": "XRX",
+              "value": 58,
+              "Company": "Xerox"
+            },
+            {
+              "rate": -0.16767561,
+              "name": "XLNX",
+              "value": 63,
+              "Company": "Xilinx"
+            }
+          ]
+    },
+    {
+        "name": "MATERIALS", 
+        "children":[
+            {
+              "rate": -1.098708744,
+              "name": "APD",
+              "value": 65,
+              "Company": "Air Products & Chemicals Inc"
+            },
+            {
+              "rate": -1.62038079,
+              "name": "ALB",
+              "value": 73,
+              "Company": "Albemarle Corp"
+            },
+            {
+              "rate": -3.533133178,
+              "name": "AMCR",
+              "value": 65,
+              "Company": "Amcor plc"
+            },
+            {
+              "rate": -2.726908724,
+              "name": "AVY",
+              "value": 90,
+              "Company": "Avery Dennison Corp"
+            },
+            {
+              "rate": -2.764482743,
+              "name": "BLL",
+              "value": 74,
+              "Company": "Ball Corp"
+            },
+            {
+              "rate": 3.592728512,
+              "name": "CE",
+              "value": 36,
+              "Company": "Celanese"
+            },
+            {
+              "rate": 1.59253868,
+              "name": "CF",
+              "value": 63,
+              "Company": "CF Industries Holdings Inc"
+            },
+            {
+              "rate": -4.081240803,
+              "name": "CTVA",
+              "value": 24,
+              "Company": "Corteva"
+            },
+            {
+              "rate": -1.588997759,
+              "name": "DOW",
+              "value": 39,
+              "Company": "Dow Inc."
+            },
+            {
+              "rate": 1.07433202,
+              "name": "DD",
+              "value": 18,
+              "Company": "DuPont de Nemours Inc"
+            },
+            {
+              "rate": -2.707346669,
+              "name": "EMN",
+              "value": 93,
+              "Company": "Eastman Chemical"
+            },
+            {
+              "rate": -1.525360359,
+              "name": "ECL",
+              "value": 33,
+              "Company": "Ecolab Inc."
+            },
+            {
+              "rate": 3.455896889,
+              "name": "FMC",
+              "value": 100,
+              "Company": "FMC Corporation"
+            },
+            {
+              "rate": -3.898052872,
+              "name": "FCX",
+              "value": 26,
+              "Company": "Freeport-McMoRan Inc."
+            },
+            {
+              "rate": -1.54938457,
+              "name": "IP",
+              "value": 68,
+              "Company": "International Paper"
+            },
+            {
+              "rate": -2.843798175,
+              "name": "IFF",
+              "value": 86,
+              "Company": "Intl Flavors & Fragrances"
+            },
+            {
+              "rate": 0.329928002,
+              "name": "LIN",
+              "value": 94,
+              "Company": "Linde plc"
+            },
+            {
+              "rate": -2.446891012,
+              "name": "LYB",
+              "value": 83,
+              "Company": "LyondellBasell"
+            },
+            {
+              "rate": 2.279608091,
+              "name": "MLM",
+              "value": 100,
+              "Company": "Martin Marietta Materials"
+            },
+            {
+              "rate": 2.772418013,
+              "name": "MOS",
+              "value": 68,
+              "Company": "The Mosaic Company"
+            },
+            {
+              "rate": -1.275100997,
+              "name": "NEM",
+              "value": 3,
+              "Company": "Newmont Goldcorp"
+            },
+            {
+              "rate": -1.113876327,
+              "name": "NUE",
+              "value": 54,
+              "Company": "Nucor Corp."
+            },
+            {
+              "rate": 1.784453596,
+              "name": "PKG",
+              "value": 53,
+              "Company": "Packaging Corporation of America"
+            },
+            {
+              "rate": 1.447306057,
+              "name": "PPG",
+              "value": 87,
+              "Company": "PPG Industries"
+            },
+            {
+              "rate": 2.779147939,
+              "name": "SEE",
+              "value": 12,
+              "Company": "Sealed Air"
+            },
+            {
+              "rate": 3.949893651,
+              "name": "SHW",
+              "value": 69,
+              "Company": "Sherwin-Williams"
+            },
+            {
+              "rate": -0.672428833,
+              "name": "VMC",
+              "value": 1,
+              "Company": "Vulcan Materials"
+            },
+            {
+              "rate": -3.320869624,
+              "name": "WRK",
+              "value": 95,
+              "Company": "WestRock"
+            }
+          ]
+    },
+    {
+        "name": "REAL ESTATE", 
+        "children":[
+            {
+              "rate": -3.948885943,
+              "name": "ARE",
+              "value": 39,
+              "Company": "Alexandria Real Estate Equities"
+            },
+            {
+              "rate": -1.002260072,
+              "name": "AMT",
+              "value": 55,
+              "Company": "American Tower Corp."
+            },
+            {
+              "rate": 1.466789333,
+              "name": "AIV",
+              "value": 35,
+              "Company": "Apartment Investment & Management"
+            },
+            {
+              "rate": -1.335521682,
+              "name": "AVB",
+              "value": 43,
+              "Company": "AvalonBay Communities, Inc."
+            },
+            {
+              "rate": -3.398620447,
+              "name": "BXP",
+              "value": 27,
+              "Company": "Boston Properties"
+            },
+            {
+              "rate": 2.372030362,
+              "name": "CBRE",
+              "value": 4,
+              "Company": "CBRE Group"
+            },
+            {
+              "rate": -0.666399223,
+              "name": "CCI",
+              "value": 59,
+              "Company": "Crown Castle International Corp."
+            },
+            {
+              "rate": -3.527925765,
+              "name": "DLR",
+              "value": 82,
+              "Company": "Digital Realty Trust Inc"
+            },
+            {
+              "rate": -1.965331635,
+              "name": "DRE",
+              "value": 57,
+              "Company": "Duke Realty Corp"
+            },
+            {
+              "rate": 2.881769721,
+              "name": "EQIX",
+              "value": 34,
+              "Company": "Equinix"
+            },
+            {
+              "rate": -2.332943291,
+              "name": "EQR",
+              "value": 23,
+              "Company": "Equity Residential"
+            },
+            {
+              "rate": -2.361161459,
+              "name": "ESS",
+              "value": 29,
+              "Company": "Essex Property Trust, Inc."
+            },
+            {
+              "rate": 0.880631496,
+              "name": "EXR",
+              "value": 79,
+              "Company": "Extra Space Storage"
+            },
+            {
+              "rate": 3.413819799,
+              "name": "FRT",
+              "value": 42,
+              "Company": "Federal Realty Investment Trust"
+            },
+            {
+              "rate": -3.93000334,
+              "name": "HCP",
+              "value": 40,
+              "Company": "HCP Inc."
+            },
+            {
+              "rate": -2.674450203,
+              "name": "HST",
+              "value": 82,
+              "Company": "Host Hotels & Resorts"
+            },
+            {
+              "rate": 4.046358396,
+              "name": "IRM",
+              "value": 95,
+              "Company": "Iron Mountain Incorporated"
+            },
+            {
+              "rate": -3.256392926,
+              "name": "KIM",
+              "value": 47,
+              "Company": "Kimco Realty"
+            },
+            {
+              "rate": 2.781270601,
+              "name": "MAC",
+              "value": 44,
+              "Company": "Macerich"
+            },
+            {
+              "rate": -3.56937227,
+              "name": "MAA",
+              "value": 36,
+              "Company": "Mid-America Apartments"
+            },
+            {
+              "rate": 2.693152066,
+              "name": "PLD",
+              "value": 36,
+              "Company": "Prologis"
+            },
+            {
+              "rate": -4.098526963,
+              "name": "PSA",
+              "value": 11,
+              "Company": "Public Storage"
+            },
+            {
+              "rate": 3.131498595,
+              "name": "O",
+              "value": 85,
+              "Company": "Realty Income Corporation"
+            },
+            {
+              "rate": -1.454225963,
+              "name": "REG",
+              "value": 93,
+              "Company": "Regency Centers Corporation"
+            },
+            {
+              "rate": -0.67362375,
+              "name": "SBAC",
+              "value": 61,
+              "Company": "SBA Communications"
+            },
+            {
+              "rate": -0.823832207,
+              "name": "SPG",
+              "value": 66,
+              "Company": "Simon Property Group Inc"
+            },
+            {
+              "rate": -0.481631963,
+              "name": "SLG",
+              "value": 92,
+              "Company": "SL Green Realty"
+            },
+            {
+              "rate": -2.107750409,
+              "name": "UDR",
+              "value": 73,
+              "Company": "UDR, Inc."
+            },
+            {
+              "rate": 2.410640642,
+              "name": "VTR",
+              "value": 87,
+              "Company": "Ventas Inc"
+            },
+            {
+              "rate": -0.905432587,
+              "name": "VNO",
+              "value": 33,
+              "Company": "Vornado Realty Trust"
+            },
+            {
+              "rate": -0.458128774,
+              "name": "WELL",
+              "value": 3,
+              "Company": "Welltower Inc."
+            },
+            {
+              "rate": -1.356785067,
+              "name": "WY",
+              "value": 3,
+              "Company": "Weyerhaeuser"
+            }
+          ]
+    },
+    {
+        "name": "UTILITIES", 
+        "children":[
+            {
+              "rate": -0.846783518,
+              "name": "AES",
+              "value": 93,
+              "Company": "AES Corp"
+            },
+            {
+              "rate": -3.970139286,
+              "name": "LNT",
+              "value": 97,
+              "Company": "Alliant Energy Corp"
+            },
+            {
+              "rate": -3.857313873,
+              "name": "AEE",
+              "value": 71,
+              "Company": "Ameren Corp"
+            },
+            {
+              "rate": 0.347880922,
+              "name": "AEP",
+              "value": 56,
+              "Company": "American Electric Power"
+            },
+            {
+              "rate": -2.452932398,
+              "name": "AWK",
+              "value": 2,
+              "Company": "American Water Works Company Inc"
+            },
+            {
+              "rate": 2.847697592,
+              "name": "ATO",
+              "value": 86,
+              "Company": "Atmos Energy Corp"
+            },
+            {
+              "rate": 3.918541334,
+              "name": "CNP",
+              "value": 35,
+              "Company": "CenterPoint Energy"
+            },
+            {
+              "rate": 0.298109073,
+              "name": "CMS",
+              "value": 41,
+              "Company": "CMS Energy"
+            },
+            {
+              "rate": -1.193243847,
+              "name": "ED",
+              "value": 63,
+              "Company": "Consolidated Edison"
+            },
+            {
+              "rate": 1.894275393,
+              "name": "D",
+              "value": 86,
+              "Company": "Dominion Energy"
+            },
+            {
+              "rate": 2.688540608,
+              "name": "DTE",
+              "value": 72,
+              "Company": "DTE Energy Co."
+            },
+            {
+              "rate": 1.158766779,
+              "name": "DUK",
+              "value": 54,
+              "Company": "Duke Energy"
+            },
+            {
+              "rate": -1.882925576,
+              "name": "EIX",
+              "value": 81,
+              "Company": "Edison Int'l"
+            },
+            {
+              "rate": -1.517875801,
+              "name": "ETR",
+              "value": 25,
+              "Company": "Entergy Corp."
+            },
+            {
+              "rate": -4.09394495,
+              "name": "EVRG",
+              "value": 6,
+              "Company": "Evergy"
+            },
+            {
+              "rate": 0.583934775,
+              "name": "ES",
+              "value": 23,
+              "Company": "Eversource Energy"
+            },
+            {
+              "rate": -3.538033728,
+              "name": "EXC",
+              "value": 48,
+              "Company": "Exelon Corp."
+            },
+            {
+              "rate": -2.00684516,
+              "name": "FE",
+              "value": 18,
+              "Company": "FirstEnergy Corp"
+            },
+            {
+              "rate": 0.57831806,
+              "name": "NEE",
+              "value": 16,
+              "Company": "NextEra Energy"
+            },
+            {
+              "rate": 0.720695278,
+              "name": "NI",
+              "value": 46,
+              "Company": "NiSource Inc."
+            },
+            {
+              "rate": -0.214078084,
+              "name": "NRG",
+              "value": 53,
+              "Company": "NRG Energy"
+            },
+            {
+              "rate": 3.933311582,
+              "name": "PNW",
+              "value": 51,
+              "Company": "Pinnacle West Capital"
+            },
+            {
+              "rate": -2.942115346,
+              "name": "PPL",
+              "value": 9,
+              "Company": "PPL Corp."
+            },
+            {
+              "rate": -3.944135439,
+              "name": "PEG",
+              "value": 77,
+              "Company": "Public Serv. Enterprise Inc."
+            },
+            {
+              "rate": -3.977593891,
+              "name": "SRE",
+              "value": 64,
+              "Company": "Sempra Energy"
+            },
+            {
+              "rate": -2.93296704,
+              "name": "SO",
+              "value": 4,
+              "Company": "Southern Co."
+            },
+            {
+              "rate": 1.904846141,
+              "name": "WEC",
+              "value": 4,
+              "Company": "Wec Energy Group Inc"
+            },
+            {
+              "rate": 0.219685824,
+              "name": "XEL",
+              "value": 38,
+              "Company": "Xcel Energy Inc"
+            }
+          ]
+    }
+]
+}
