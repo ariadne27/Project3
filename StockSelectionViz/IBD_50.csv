@@ -1,0 +1,51 @@
+,Symbol,Company Name,Rank,Composite Rating,EPS Rating,RS Rating,SMR Rating,ACC/DIS Rating,Group Rel Str Rating,Annual ROE,Annual Profit Margin (Latest Yr),Mgmt Own %,Qtrs of Rising Sponsorship
+Basic Materials,KL,Kirkland Lake Gold Ltd,1,99,99,97,A,E,A+,24,45,4,8
+Services,RH,R H,2,99,97,98,A,A,A+,25,13,36,1
+Services,CPRT,COPART INC,3,99,98,96,A,A-,B+,32,34,16,3
+Industrial Goods,MTZ,MASTEC INC,4,99,98,96,B,B-,A,21,6,21,4
+Technology,PCTY,Paylocity Holding Corp,5,99,99,91,A,D,B+,29,21,41,0
+Financial,ESNT,Essent Group Ltd,6,99,98,93,A,B,B+,22,76,3,5
+Healthcare,EW,Edwards Lifesciences,7,99,97,94,A,A,B+,33,31,2,8
+Services,EDU,NEW ORIENTL EDU&TECH ADS,8,98,93,97,A,B-,B,19,16,17,0
+Technology,PAYC,Paycom Software Inc,9,98,98,90,A,D-,B+,51,37,10,5
+Technology,CDW,CDW,10,97,96,94,B,B,B+,81,7,2,8
+Consumer Goods,LULU,LULULEMON ATHLETICA,11,99,96,93,A,B+,A,34,22,1,8
+Services,BOOT,Boot Barn Holdings Inc,12,99,91,96,B,C+,A,16,6,2,8
+Technology,VEEV,Veeva Systems Inc Cl A,13,92,99,89,A,E,B-,24,37,1,8
+Technology,OLED,UNIVERSAL DISPLAY CORP,14,86,98,91,A,E,D,9,26,4,2
+Industrial Goods,HEI,HEICO CORP,15,93,98,87,A,E,A-,18,20,14,8
+Financial,REXR,Rexford Industrial Rlty,16,98,89,95,B,B-,A,3,22,2,3
+Technology,SEDG,Solaredge Technologies,17,99,85,99,A,B,A-,33,19,8,3
+Healthcare,INMD,Inmode Ltd,18,99,84,99,A,A,A-,71,24,39,0
+Technology,LHX,L3Harris Technologies,19,99,92,89,A,B-,A-,30,17,2,3
+Services,FLT,Fleetcor Technologies,20,95,90,93,A,D+,B,28,52,6,3
+Industrial Goods,FSS,FEDERAL SIGNAL CORP,21,97,87,95,B,A+,B,18,10,4,3
+Real Estate,EPRT,Essential Prop Realty Tr,22,99,84,97,B,B,A,4,22,2,5
+Consumer Goods,TPX,Tempur Sealy Intl Inc,23,98,82,96,A,C+,A,99,8,3,5
+Financial,V,VISA INC CL A,24,91,95,84,A,D-,B-,32,65,1,8
+Technology,MSFT,MICROSOFT CORP,25,89,94,86,A,D,D,40,35,1,8
+Services,CMCSA,COMCAST CORP CL A,26,98,92,85,A,D-,A,17,17,1,5
+Financial,JPM,J P MORGAN CHASE & CO,27,95,89,86,A,B+,C+,13,31,1,3
+Technology,JCOM,J 2 Global Inc,28,98,89,85,A,B+,A,30,33,6,7
+Healthcare,SYK,STRYKER CORP,29,94,88,85,A,D,B+,26,25,7,8
+Financial,CTRE,Caretrust Reit,30,93,89,80,B,E,A,8,37,2,0
+Technology,STNE,Stoneco Ltd Cl A,31,88,77,93,A,E,B-,12,31,2,2
+Services,EEFT,EURONET WORLDWIDE INC,32,86,98,68,A,D-,B-,25,15,6,5
+Industrial Goods,TKR,TIMKEN CO,33,92,89,75,A,B-,B+,22,13,12,3
+Financial,BRO,BROWN & BROWN INC,34,84,82,85,A,C-,D,12,23,17,8
+Financial,STOR,Store Capital Corp,35,97,67,92,A,B-,A,6,40,1,8
+Financial,PYPL,Paypal Holdings Inc,36,84,93,63,A,D-,B-,19,23,1,8
+Services,BZUN,Baozun Inc Cl A Ads,37,84,99,50,A,D+,B+,17,8,9,8
+Consumer Cyclical,WH,Wyndham Hotels & Resorts,38,76,95,51,A,D+,D,20,20,2,2
+Technology,UPLD,Upland Software Inc,39,87,99,37,A,B,B+,40,24,12,8
+Technology,RP,Realpage Inc,40,74,93,49,A,D-,C,17,21,17,1
+Technology,FTNT,FORTINET INC,41,73,99,36,A,B-,D-,40,23,17,8
+Technology,ADBE,Adobe Inc,42,69,97,38,A,D-,D,38,40,1,8
+Technology,CRM,SALESFORCE.COM INC,43,83,91,38,A,C+,B+,15,18,6,8
+Financial,MOMO,Momo Inc Ads Cl A,44,74,81,50,A,B-,D+,29,18,15,0
+Technology,ANET,Arista Networks Inc,45,60,99,30,A,D-,E,34,38,24,0
+Services,CHGG,Chegg Inc,46,66,99,28,A,E,B,17,22,6,1
+Financial,CVBF,C V B FINANCIAL CORP,47,74,89,35,A,B-,C+,10,52,1,3
+Technology,SSNC,S S & C TECHNOLOGIES,48,69,99,25,A,B-,D+,20,28,15,8
+Consumer Cyclical,HUYA,Huya Inc Cl A Ads,49,66,73,51,A,B-,D+,16,6,17,4
+Healthcare,ALXN,ALEXION PHARMACEUTICALS,50,76,94,22,A,C+,B+,20,51,4,8

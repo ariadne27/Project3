@@ -1,0 +1,51 @@
+name,rate,name,value,Company
+Basic Materials,1,KL,-0.000105,Kirkland Lake Gold Ltd
+Services,2,RH,0.001026,R H
+Services,3,CPRT,0.000743,COPART INC
+Industrial Goods,4,MTZ,0.000539,MASTEC INC
+Technology,5,PCTY,0.001012,Paylocity Holding Corp
+Financial,6,ESNT,0.000616,Essent Group Ltd
+Healthcare,7,EW,0.000913,Edwards Lifesciences
+Services,8,EDU,0.000832,NEW ORIENTL EDU&TECH ADS
+Technology,9,PAYC,0.001877,Paycom Software Inc
+Technology,10,CDW,0.001241,CDW
+Consumer Goods,11,LULU,0.000875,LULULEMON ATHLETICA
+Services,12,BOOT,0.000416,Boot Barn Holdings Inc
+Technology,13,VEEV,0.000905,Veeva Systems Inc Cl A
+Technology,14,OLED,0.000771,UNIVERSAL DISPLAY CORP
+Industrial Goods,15,HEI,0.000859,HEICO CORP
+Financial,16,REXR,0.000874,Rexford Industrial Rlty
+Technology,17,SEDG,0.001303,Solaredge Technologies
+Healthcare,18,INMD,0.000713,Inmode Ltd
+Technology,19,LHX,0.00055,L3Harris Technologies
+Services,20,FLT,0.001074,Fleetcor Technologies
+Industrial Goods,21,FSS,0.000294,FEDERAL SIGNAL CORP
+Real Estate,22,EPRT,0.001968,Essential Prop Realty Tr
+Consumer Goods,23,TPX,0.000438,Tempur Sealy Intl Inc
+Financial,24,V,0.000895,VISA INC CL A
+Technology,25,MSFT,0.000571,MICROSOFT CORP
+Services,26,CMCSA,0.000428,COMCAST CORP CL A
+Financial,27,JPM,0.000399,J P MORGAN CHASE & CO
+Technology,28,JCOM,0.000427,J 2 Global Inc
+Healthcare,29,SYK,0.000464,STRYKER CORP
+Financial,30,CTRE,0.001076,Caretrust Reit
+Technology,31,STNE,0.000603,Stoneco Ltd Cl A
+Services,32,EEFT,0.000481,EURONET WORLDWIDE INC
+Industrial Goods,33,TKR,0.000348,TIMKEN CO
+Financial,34,BRO,0.000342,BROWN & BROWN INC
+Financial,35,STOR,0.000734,Store Capital Corp
+Financial,36,PYPL,0.000987,Paypal Holdings Inc
+Services,37,BZUN,0.001317,Baozun Inc Cl A Ads
+Consumer Cyclical,38,WH,-0.000335,Wyndham Hotels & Resorts
+Technology,39,UPLD,0.00108,Upland Software Inc
+Technology,40,RP,0.000617,Realpage Inc
+Technology,41,FTNT,0.000908,FORTINET INC
+Technology,42,ADBE,0.000594,Adobe Inc
+Technology,43,CRM,0.000873,SALESFORCE.COM INC
+Financial,44,MOMO,-0.001245,Momo Inc Ads Cl A
+Technology,45,ANET,0.001099,Arista Networks Inc
+Services,46,CHGG,0.000813,Chegg Inc
+Financial,47,CVBF,0.000265,C V B FINANCIAL CORP
+Technology,48,SSNC,0.00081,S S & C TECHNOLOGIES
+Consumer Cyclical,49,HUYA,0.00085,Huya Inc Cl A Ads
+Healthcare,50,ALXN,0.000725,ALEXION PHARMACEUTICALS

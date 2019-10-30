@@ -1,0 +1,350 @@
+{
+    "name": "S&P 500", 
+    "children": [
+        {
+            "name": "TECHNOLOGY", 
+            "children":[
+    {
+      "rate": 13,
+      "name": "PCTY",
+      "value": 0.001012,
+      "Company": "Paylocity Holding Corp"
+    },
+    {
+      "rate": 9,
+      "name": "PAYC",
+      "value": 0.001877,
+      "Company": "Paycom Software Inc"
+    },
+    {
+      "rate": 10,
+      "name": "CDW",
+      "value": 0.001241,
+      "Company": "CDW"
+    },
+    {
+      "rate": 5,
+      "name": "VEEV",
+      "value": 0.000905,
+      "Company": "Veeva Systems Inc Cl A"
+    },
+    {
+      "rate": 14,
+      "name": "OLED",
+      "value": 0.000771,
+      "Company": "UNIVERSAL DISPLAY CORP"
+    },
+    {
+      "rate": 17,
+      "name": "SEDG",
+      "value": 0.001303,
+      "Company": "Solaredge Technologies"
+    },
+    {
+      "rate": 19,
+      "name": "LHX",
+      "value": 0.00055,
+      "Company": "L3Harris Technologies"
+    },
+    {
+      "rate": 25,
+      "name": "MSFT",
+      "value": 0.000571,
+      "Company": "MICROSOFT CORP"
+    },
+    {
+      "rate": 28,
+      "name": "JCOM",
+      "value": 0.000427,
+      "Company": "J 2 Global Inc"
+    },
+    {
+      "rate": 31,
+      "name": "STNE",
+      "value": 0.000603,
+      "Company": "Stoneco Ltd Cl A"
+    },
+    {
+      "rate": 39,
+      "name": "UPLD",
+      "value": 0.00108,
+      "Company": "Upland Software Inc"
+    },
+    {
+      "rate": 40,
+      "name": "RP",
+      "value": 0.000617,
+      "Company": "Realpage Inc"
+    },
+    {
+      "rate": 41,
+      "name": "FTNT",
+      "value": 0.000908,
+      "Company": "FORTINET INC"
+    },
+    {
+      "rate": 42,
+      "name": "ADBE",
+      "value": 0.000594,
+      "Company": "Adobe Inc"
+    },
+    {
+      "rate": 43,
+      "name": "CRM",
+      "value": 0.000873,
+      "Company": "SALESFORCE.COM INC"
+    },
+    {
+      "rate": 45,
+      "name": "ANET",
+      "value": 0.001099,
+      "Company": "Arista Networks Inc"
+    },
+    {
+      "rate": 48,
+      "name": "SSNC",
+      "value": 0.00081,
+      "Company": "S S & C TECHNOLOGIES"
+    }
+  ]
+},
+{
+    "name": "SERVICES", 
+    "children":[    
+        {
+          "rate": 2,
+          "name": "RH",
+          "value": 0.001026,
+          "Company": "R H"
+        },
+        {
+          "rate": 3,
+          "name": "CPRT",
+          "value": 0.000743,
+          "Company": "COPART INC"
+        },
+        {
+          "rate": 8,
+          "name": "EDU",
+          "value": 0.000832,
+          "Company": "NEW ORIENTL EDU&TECH ADS"
+        },
+        {
+          "rate": 12,
+          "name": "BOOT",
+          "value": 0.000416,
+          "Company": "Boot Barn Holdings Inc"
+        },
+        {
+          "rate": 20,
+          "name": "FLT",
+          "value": 0.001074,
+          "Company": "Fleetcor Technologies"
+        },
+        {
+          "rate": 26,
+          "name": "CMCSA",
+          "value": 0.000428,
+          "Company": "COMCAST CORP CL A"
+        },
+        {
+          "rate": 32,
+          "name": "EEFT",
+          "value": 0.000481,
+          "Company": "EURONET WORLDWIDE INC"
+        },
+        {
+          "rate": 37,
+          "name": "BZUN",
+          "value": 0.001317,
+          "Company": "Baozun Inc Cl A Ads"
+        },
+        {
+          "rate": 46,
+          "name": "CHGG",
+          "value": 0.000813,
+          "Company": "Chegg Inc"
+        }
+      ]
+    },
+    {
+        "name": "REAL ESTATE", 
+        "children":[
+                {
+                  "rate": 22,
+                  "name": "EPRT",
+                  "value": 0.001968,
+                  "Company": "Essential Prop Realty Tr"
+                }
+              ]
+    },
+    {
+                "name": "INDUSTRIAL GOODS", 
+                "children":[
+                        {
+                          "rate": 4,
+                          "name": "MTZ",
+                          "value": 0.000539,
+                          "Company": "MASTEC INC"
+                        },
+                        {
+                          "rate": 15,
+                          "name": "HEI",
+                          "value": 0.000859,
+                          "Company": "HEICO CORP"
+                        },
+                        {
+                          "rate": 21,
+                          "name": "FSS",
+                          "value": 0.000294,
+                          "Company": "FEDERAL SIGNAL CORP"
+                        },
+                        {
+                          "rate": 33,
+                          "name": "TKR",
+                          "value": 0.000348,
+                          "Company": "TIMKEN CO"
+                        }
+                      ]
+         },
+        {
+              "name": "HEALTHCARE", 
+              "children":[
+                    {
+                      "rate": 7,
+                      "name": "EW",
+                      "value": 0.000913,
+                      "Company": "Edwards Lifesciences"
+                    },
+                    {
+                      "rate": 18,
+                      "name": "INMD",
+                      "value": 0.000713,
+                      "Company": "Inmode Ltd"
+                    },
+                    {
+                      "rate": 29,
+                      "name": "SYK",
+                      "value": 0.000464,
+                      "Company": "STRYKER CORP"
+                    },
+                    {
+                      "rate": 50,
+                      "name": "ALXN",
+                      "value": 0.000725,
+                      "Company": "ALEXION PHARMACEUTICALS"
+                    }
+                  ]
+         },
+         {
+                    "name": "FINANCIAL", 
+                    "children":[
+                            {
+                              "rate": 6,
+                              "name": "ESNT",
+                              "value": 0.000616,
+                              "Company": "Essent Group Ltd"
+                            },
+                            {
+                              "rate": 16,
+                              "name": "REXR",
+                              "value": 0.000874,
+                              "Company": "Rexford Industrial Rlty"
+                            },
+                            {
+                              "rate": 24,
+                              "name": "V",
+                              "value": 0.000895,
+                              "Company": "VISA INC CL A"
+                            },
+                            {
+                              "rate": 27,
+                              "name": "JPM",
+                              "value": 0.000399,
+                              "Company": "J P MORGAN CHASE & CO"
+                            },
+                            {
+                              "rate": 30,
+                              "name": "CTRE",
+                              "value": 0.001076,
+                              "Company": "Caretrust Reit"
+                            },
+                            {
+                              "rate": 34,
+                              "name": "BRO",
+                              "value": 0.000342,
+                              "Company": "BROWN & BROWN INC"
+                            },
+                            {
+                              "rate": 35,
+                              "name": "STOR",
+                              "value": 0.000734,
+                              "Company": "Store Capital Corp"
+                            },
+                            {
+                              "rate": 36,
+                              "name": "PYPL",
+                              "value": 0.000987,
+                              "Company": "Paypal Holdings Inc"
+                            },
+                            {
+                              "rate": 44,
+                              "name": "MOMO",
+                              "value": -0.001245,
+                              "Company": "Momo Inc Ads Cl A"
+                            },
+                            {
+                              "rate": 47,
+                              "name": "CVBF",
+                              "value": 0.000265,
+                              "Company": "C V B FINANCIAL CORP"
+                            }
+                          ]
+      },
+     {
+       "name": "CONSUMER GOODS", 
+      "children":[
+        {
+            "rate": 11,
+            "name": "LULU",
+            "value": 0.000875,
+            "Company": "LULULEMON ATHLETICA"
+          },
+          {
+            "rate": 23,
+            "name": "TPX",
+            "value": 0.000438,
+            "Company": "Tempur Sealy Intl Inc"
+          }
+        ]
+    },
+    {
+        "name": "C.C.", 
+        "children":[
+                {
+                  "rate": 38,
+                  "name": "       WH",
+                  "value": -0.000335,
+                  "Company": "Wyndham Hotels & Resorts"
+                },
+                {
+                  "rate": 49,
+                  "name": "HUYA",
+                  "value": 0.00085,
+                  "Company": "Huya Inc Cl A Ads"
+                }
+              ]
+ },
+ {
+     "name": " ", 
+     "children":[   
+            {
+              "rate": 1,
+              "name": "KL",
+              "value": -0.000105,
+              "Company": "Kirkland Lake Gold Ltd"
+            }
+          ]
+        }
+    ]
+    }
