@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Final Project Viz</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600"
+    />
+    
+    <!-- https://fonts.google.com/specimen/Open+Sans -->
+    <link rel="stylesheet" href="static/css/all.min.css" />
+    <!-- https://fontawesome.com/ -->
+    <link rel="stylesheet" href="static/css/bootstrap.min.css" />
+    <!-- https://getbootstrap.com/ -->
+    <link rel="stylesheet" href="static/css/tooplate-style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  </head>
+  <body style="background-color:honeydew;"></body>
+
+  <body>
+
+
+    <!-- Video Banner -->
+    <section class="tm-banner-section" id="tmVideoSection">
+      <div class="container tm-banner-text-container">
+        <div class="row">
+          <div class="col-12">
+            <header>
+              <h2 class="tm-banner-title">Markowitz Theory Prediction Models</h2>
+              <p class="mx-auto tm-banner-subtitle">
+               <i>Invest Wisely</i>
+              </p>
+            </header>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video -->
+      <video id="hero-vid" autoplay="" loop="" muted>
+        <source src="static/videos/city-night-blur-01.mp4" type="video/mp4" />
+      </video>
+    </section>
+    <!-- Features -->
+    <div class="container tm-features-section" id="features">
+      <div class="row tm-features-row">
+        <section class="col-md-6 col-sm-12 tm-feature-block">
+          <header class="tm-feature-header">
+            <i class="fas fa-5x fa-atom tm-feature-icon"></i>
+            <h3 class="tm-feature-h">The Markowitz Portfolio</h3>
+          </header>
+          <p>
+            The Markowitz portfolio theory states that if you combine asset classes that zig and zag in a portfolio, even though each asset class by itself could be quite volatile, the volatility of the entire portfolio can be quite low. It’s the key to maximizing return with minimal risk. It’s an investor’s “don’t put all of your eggs in one basket”. 
+          </p>
+          <p>
+            When you create a diversified portfolio with a variety of asset classes, you are guaranteed to see a return no matter the circumstances (ex: If one stock suffers, you should have one that will thrive). According to Markowitz, “proper investment isn’t just about choosing assets, but instead finding the right combination of assets would significantly improve your risk-return ratio”.
+          </p>
+        </section>
+        <section class="col-md-6 col-sm-12 tm-feature-block">
+          <br><br><br>
+          <p>
+            A combination of assets can be plotted on a graph with the portfolio’s risk on the x-axis, and the expected return on the y-axis. The efficient frontier is an upward sloping curve that represents the best combinations for an optimal outcome. Portfolios that fall along or near the efficient frontier are deemed to be good investments, while portfolios that fall below are not desirable as they’re considered high-risk with not such great results.
+          </p>
+          <p>
+            Lagging indicators are indicators that come after the economy changes. They are helpful when used to confirm specific patterns. This makes the Markowitz model a lagging indicator since used historical data to predict an optimal portfolio mix.
+          </p>
+        </section>
+      </div>
+    </div>
+
+    <!-- Activities -->
+    <div class="container" id="activities">
+      <div class="row">
+        <div class="col-12">
+          <div class="tm-parallax">
+            <header class="tm-parallax-header">
+              <h2 class="">User Interface</h2>
+            </header>
+
+
+
+
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+
+
+<body>
+
+
+    <div class="container">
+       
+        </div>
+  
+<!--  SELECTION SPACING
+<div class="row">
+  <div class="col-md-2">
+    
+  -->
+
+
+    
+    <div class="well">
+      <h5>SELECT Investment Level:</h5>
+      <select id="selDataset" onchange="optionChanged(this.value)"></select>
+    </div>
+    <!-- <h5>Investment Level ($USD)</h5>
+    <form method="POST" id="form" onsubmit="return false;">
+        <input type="text" placeholder=0 name="userInput" value=0 />
+        <input type="submit" name="calculate" value="Calculate" />
+        <input type="submit" onclick="othername();" /> -->
+    </form>
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title">Suggested Portfolio by Shares</h3>
+      </div>
+      <div id="sample-metadata" class="panel-body"></div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div id="pie"></div>
+  </div>
+  <div class="col-md-5">
+    <div id="gauge"></div>
+  </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+  <div id="bubble"></div>
+</div>
+</div>
+
+<!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript" src="static/js/app.js"></script>
+<script type="text/javascript" src="static/js/jquery.singlePageNav.min.js"></script>
+<script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+<!-- <script src="{{ url_for('static', filename='js/jquery-1.9.1.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/jquery.singlePageNav.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script> -->
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+</html>
